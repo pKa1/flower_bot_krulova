@@ -1,0 +1,32 @@
+{
+  "lots": [
+    {
+      "id": "3",
+      "seller_id": "5582084313",
+      "seller_username": "dashyxxa",
+      "item_name": "⚪️лобелия⚪️",
+      "price": 1,
+      "amount": 1,
+      "time": "30.01.2026 17:48"
+    },
+    {
+      "id": "6",
+      "seller_id": "5582084313",
+      "seller_username": "dashyxxa",
+      "item_name": "⚪️роза⚪️",
+      "price": 1,
+      "amount": 1,
+      "time": "30.01.2026 17:48"
+    },
+    {
+      "id": "7",
+      "seller_id": "5582084313",
+      "seller_username": "dashyxxa",
+      "item_name": "⚪️петуния⚪️",
+      "price": 15,
+      "amount": 2,
+      "time": "06.02.2026 17:40"
+    }
+  ],
+  "last_id": 7
+}
